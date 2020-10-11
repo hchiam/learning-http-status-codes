@@ -8,7 +8,7 @@ Just one of the things I'm learning. <https://github.com/hchiam/learning>
 - 400+ = **client** error ("it's you")
 - 500+ = **server** error ("it's not you user, it's me")
 
-## References:
+## References for further details within each hundred range:
 
 <https://developer.mozilla.org/en-US/docs/Web/HTTP/Status>
 
